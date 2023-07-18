@@ -1,6 +1,6 @@
 The name feels like a hint for RSA.  
 The numbers given `{129834683, 10529980290229}` seem like `e` and `n` respectively.  
-If we take the whole message to be a single number `c` (and ignore the spaces), it looks like we went a wrong way as `n > c`.  
+If we take the whole message to be a single number `c` (and ignore the spaces), it looks like we went a wrong way as `n > c` should hold.  
 But if we take the individual numbers in the message to be `c`, we get back on the right track.
 
 A lookup on factorDB shows that the number `10529980290229` has two prime factors `5929487` and `1775867`. So it's definitely `n`.
