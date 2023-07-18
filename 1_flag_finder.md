@@ -9,5 +9,4 @@ Decoding that to plaintext:
 
 Therefore the flag is:  
 `CTF{6006l35_f0r_fl46_n4m35}`  
-(although the flag format is not specified anywhere except Really Simple Algorithm's problem text)
 
