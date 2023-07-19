@@ -8,5 +8,5 @@ although the `writeup` part is not much due to lack of stuff to explain for each
 
 I will probably upload the challenge files to this repo in the future. Feel free to ping me if I forget to do so :)
 
-### NOTE: The license in the reository applies only to the markdown files intended as writeups for the challenges.
+### NOTE: The license in the repository applies only to the markdown files intended as writeups for the challenges.
 
